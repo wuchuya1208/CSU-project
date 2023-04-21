@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadcopter Drone
-author: [Richard Kuo]
+author: [wuchuya1208]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -18,28 +18,31 @@ tags: [jekyll, ai]
 * **成果展示** (Demostation)
 
 ---
-## 太陽能板巡檢無人機
+## 尋河環保機器人
 類別: 四軸無人機 <br>
 
-目的: To-Be-Discussed <br>
+目的: 巡視河川,撿拾垃圾<br>
 
 ---
 ### 應用功能說明
 1. AI視覺辨識
 2. 自動導航
+3. 撿拾垃圾
 
 ---
 ### 設計考量與相關技術
 **系統設計考量：**<br>
 1. 移動方式: 四軸飛行
 2. 供電方式: 鋰電池
+3. 辨識方式: AI物件偵測
+4. 撿拾方式: 用爪手抓拾用強力磁鐵吸拾金屬
 
 **所需相關技術：**<br>
 1. AI視覺辨識微控制器模組 (AMB82-mini)
 
 ---
 ### 系統方塊圖
-TBD
+![](https://www.ruten.com.tw/item/show?22308071996883)
 
 ---
 ### 概念驗證
