@@ -42,7 +42,7 @@ tags: [jekyll, ai]
 
 ---
 ### 系統方塊圖
-![](https://www.ruten.com.tw/item/show?22308071996883)
+![](https://github.com/wuchuya1208/CSU-project/blob/main/images/Salvage-Robot.jpg?raw=true)
 
 ---
 ### 概念驗證
